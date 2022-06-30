@@ -1,0 +1,452 @@
+/* COLORS */
+/*#ffde8c pastel yellow
+#f3c867 gold
+#f75f4f light-orange
+#f3685a dark-orange
+#f4dcd8 white with peach lol
+#f8d8d2 light-peach
+#fbc9bf peach
+#f25050 red-orange
+#d34046 dark-red-orange
+#f40135 red
+#af062b dark red
+#5f051f maroon
+#cec479 yellow-green
+#75baa8 mint */
+
+/* FONTS */
+@font-face {
+  font-family: "Weltron";
+  src: url(./Portfolio-Fonts/weltron_sp2001/WELTRON2.TTF);
+}
+
+@font-face {
+  font-family: "Aromatron";
+  src: url(./Portfolio-Fonts/aromatron/Aromatron-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Steelfish Rounded";
+  src: url(./Portfolio-Fonts/steelfish_rounded/steelfish\ rounded\ bd.ttf);
+}
+
+/* NAVBAR */
+#name-header {
+  font-family: "Weltron";
+  font-size: xx-large;
+  padding: 0px;
+  color: #f75f4f;
+}
+
+#nav-link {
+  color: black;
+}
+
+a#offcanvasNavbarDropdown-expand-lg.dropdown-toggle.nav-link {
+  color: black;
+}
+
+a#nav-link {
+  color: black;
+}
+
+a#redirect {
+  color: black;
+}
+
+a#nav-link:active {
+  color: black;
+}
+
+#redirect a:active {
+  color: black;
+}
+
+a#nav-link:visited {
+  color: black;
+}
+
+#redirect a:visited {
+  color: black;
+}
+
+a#nav-link:hover {
+  color: #d80634;
+}
+
+#redirect a:hover {
+  color: #d80634;
+}
+
+a#offcanvasNavbarDropdown-expand-lg.dropdown-toggle.nav-link:hover {
+  color: #d80634;
+}
+
+.dropdown-menu.show a:hover {
+  background-color: #f2ca67;
+}
+
+a.active.dropdown-item {
+  background-color: #eee8d2;
+}
+
+.dropdown-item:active a {
+  color: #d80634;
+}
+
+#navbar {
+  font-family: "Steelfish Rounded";
+  font-size: x-large;
+  color: black;
+  background-color: #ffde8c;
+  background-image: url(./pages/images/backgrounds/pastel-oil-slick.jpg);
+  box-shadow: #f40135 0px 5px, #d80634 0px 10px, #af062b 0px 15px;
+}
+
+.dropdown-menu.show {
+  background-color: #eee8d2;
+}
+
+#redirect {
+  background-color: transparent;
+}
+
+/* NAV AND FOOTER SIDE MENU */
+#slide-header {
+  font-family: "Weltron";
+  color: #f2ca67;
+  font-size: xx-large;
+}
+
+#side-box-head {
+  background-color: #75baa8;
+  font-family: "Steelfish Rounded";
+  font-size: xx-large;
+  color: black;
+}
+
+.offcanvas-body {
+  font-family: "Steelfish Rounded";
+  font-size: x-large;
+  color: black;
+}
+
+.offcanvas-body a {
+  color: black;
+}
+
+div#offcanvasNavbar-expand-lg.offcanvas.offcanvas-end.show {
+  background-image: url(./pages/images/backgrounds/pastel-oil-slick.jpg);
+}
+
+/* FOOTER */
+#fixed-bottom {
+  background-image: url(./pages/images/backgrounds/pastel-oil-slick.jpg);
+  font-family: "Steelfish Rounded";
+  font-size: x-large;
+  color: black;
+  height: auto;
+  box-shadow: #f40135 0px 5px, #d80634 0px 10px, #af062b 0px 15px;
+}
+
+#fixed-bottom a {
+  color: black;
+}
+
+#contact-header {
+  font-family: "Weltron";
+  font-size: xx-large;
+  padding: 0px;
+  color: #f75f4f;
+}
+
+/* HOMEPAGE */
+#welcome-box {
+  background-image: url(./pages/images/backgrounds/alligator.png);
+  background-position: center;
+  height: 565px;
+  width: 1200px;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  width: auto;
+}
+
+#jumbo-word {
+  background-color: white;
+  padding: 10px;
+  border: 15px;
+  border-color: #ef6938 #d80634;
+  border-style: ridge;
+  border-radius: 20px;
+  width: fit-content;
+  height: fit-content;
+  font-family: "Aromatron";
+  position: fixed;
+  top: 450px;
+  left: 1000px;
+}
+
+/* ABOUT ME PAGE */
+#about-header {
+  font-family: "Weltron";
+  color: #d80634;
+  font-size: xx-large;
+}
+
+.card-title {
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+.card-header {
+  font-family: "Aromatron";
+}
+
+#card {
+  background-color: #eee8d2;
+  border-radius: 10px;
+  font-family: "Steelfish Rounded";
+  font-size: x-large;
+  margin: 20px;
+  padding: 10px;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+#card:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#left-about {
+  background-image: linear-gradient(#f2ca67, #ef6938, #75baa8);
+}
+
+.list-group-item {
+  font-family: "Aromatron";
+  font-size: large;
+}
+
+#li1 {
+  background-color: #ef6938;
+}
+
+#li2 {
+  background-color: #75baa8;
+}
+
+#li3 {
+  background-color: #f2ca67;
+}
+
+#li4 {
+  background-color: #f79a66;
+}
+
+#right-about {
+  background-image: url(./pages/images/backgrounds/teal-stripes.jpg);
+}
+
+#header1 {
+  background-color: #ef6938;
+}
+
+#header2 {
+  background-color: #75baa8;
+}
+
+#header3 {
+  background-color: #f2ca67;
+}
+
+/* OVERVIEW */
+#projects-bg {
+  background-image: linear-gradient(#f2ca67, #ef6938, #75baa8);
+}
+
+#pro-card {
+  background-color: #eee8d2;
+  border-radius: 10px;
+  font-family: "Steelfish Rounded";
+  font-size: large;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin: 20px;
+}
+
+#pro-card:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.over-title1 {
+  background-color: #ef6938;
+}
+
+.over-title2 {
+  background-color: #75baa8;
+}
+
+.over-title3 {
+  background-color: #f2ca67;
+}
+
+.over-title4 {
+  background-color: #f2ca67;
+}
+
+.over-title5 {
+  background-color: #75baa8;
+}
+
+.over-title6 {
+  background-color: #ef6938;
+}
+
+/* INDIVIDUAL PROJECT PAGE */
+#project-bg {
+  background-image: url(./pages/images/backgrounds/teal-stripes.jpg);
+}
+
+h1#title {
+  font-family: "Aromatron";
+  font-size: xx-large;
+}
+
+h2#description {
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#left-box-pro {
+  background-color: #eee8d2;
+  border-radius: 10px;
+  font-family: "Steelfish Rounded";
+  font-size: large;
+  color: black;
+  padding: 30px;
+  width: fit-content;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+#left-box-pro:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#button-area {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#pro-button {
+  font-family: "Weltron";
+  font-size: large;
+  color: #f2ca67;
+  align-items: center;
+  background-color: #d80634;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 5px;
+  min-height: 3rem;
+  padding: calc(0.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+#pro-button:hover,
+#pro-button:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: #75baa8;
+  background-color: #f2ca67;
+}
+
+#pro-button:hover {
+  transform: translateY(-1px);
+}
+
+#pro-button:active {
+  background-color: #f0f0f1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+#pro-card {
+  margin: 15px;
+  padding: 10px;
+  font-size: x-large;
+}
+
+#pro-title1 {
+  background-color: #75baa8;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title2 {
+  background-color: #ef6938;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title3 {
+  background-color: #f2ca67;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title4 {
+  background-color: #f79a66;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title5 {
+  background-color: #75baa8;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title6 {
+  background-color: #ef6938;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title7 {
+  background-color: #f2ca67;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+#pro-title8 {
+  background-color: #f79a66;
+  font-family: "Aromatron";
+  font-size: x-large;
+}
+
+img {
+  border-radius: 20px;
+  margin-top: 20px;
+}
