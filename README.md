@@ -22,7 +22,7 @@ I'm no pro yet so there may be some hiccups here and there; mostly with the back
 
 ## Installation
 
-To run this application locally make sure to copy the files and create a React app; then run npm install to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
+To run this application locally make sure to copy the files and create a React app; then ```run npm install``` to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
 
 ## Usage
 
