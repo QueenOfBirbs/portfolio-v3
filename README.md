@@ -29,7 +29,7 @@ To run this application locally make sure to copy the files and create a React a
 This is largely for personal use though feel free to look around! Uses React Bootstrap, React, CSS, HTML, and Javascript. Made in June 2022.
 Here is a screenshot of the application:
 
-<img src="./portfolio-v3.png">
+<img src="./images/portfolio-v3.png">
 
 
 ## Contributing
