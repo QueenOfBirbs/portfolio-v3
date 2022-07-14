@@ -46,11 +46,12 @@ function AboutMe() {
                     As a former arts student, I consider my talents to be more
                     on the creative side as coding is a lovely way to combine
                     both artistic style with a medium that is used and seen by
-                    many people.<br></br>
-                    Making cohesive themes with a bit of unique flair for
-                    websites is something I greatly enjoy and I consider it to
-                    be one of my strongsuits. I'm skilled at making page layouts as well, in both Bootstrap (React/Regular) and plain HTML so websites can also have a unique setup.
-                    I'm also a perfectionist at heart
+                    many people. Making cohesive themes with a bit of unique
+                    flair for websites is something I greatly enjoy and I
+                    consider it to be one of my strongsuits.<br></br>
+                    I'm skilled at making page layouts as well, in both
+                    Bootstrap (React/Regular) and plain HTML so websites can
+                    also have a unique setup. I'm also a perfectionist at heart
                     so I won't stop until it's as close to my vision as humanly
                     possible; if I have to learn a new technique or try and fail
                     many different ways, that's cool with me.
