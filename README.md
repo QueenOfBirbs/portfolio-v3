@@ -26,7 +26,7 @@ To run this application locally make sure to copy the files and create a react a
 This is largely for personal usage so feel free to look around! Made using React and CSS. Made in June 2022.
 Here is a screenshot of the application:
 
-<img src="./finished/quiz-start.png">
+![Screenshot (66)](https://user-images.githubusercontent.com/99460203/190323735-ef453d64-e00a-45a9-ba99-7fcf5beb5665.png)
 
 
 ## Contributing
